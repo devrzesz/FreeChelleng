@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeChalleng.MediaLibrary.Class
+namespace FreeChalleng
 {
     class Movie : Media
     {

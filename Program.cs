@@ -1,5 +1,4 @@
 ﻿using System;
-using FreeChalleng.MediaLibrary;
 
 namespace FreeChalleng
 {
@@ -7,7 +6,7 @@ namespace FreeChalleng
     {
         static void Main()
         {
-            MediaLibrary.MediaLibrary.Program();
+            MediaLibrary.Program();
 
             Console.WriteLine("\n\nPress any key");
             Console.ReadKey();

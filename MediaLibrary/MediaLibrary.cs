@@ -1,7 +1,6 @@
 ﻿using System;
-using FreeChalleng.MediaLibrary.Class;
 
-namespace FreeChalleng.MediaLibrary
+namespace FreeChalleng
 {
     public class MediaLibrary
     {
